@@ -26,7 +26,9 @@
 
 - 🧑‍💻 NumPy | Pandas | Matplotlib | Seaborn | Sklearn | Statsmodels | Imblearn | Graphviz
 
-- 🌐 HTML | CSS | JavaScript 
+- 🌐 HTML | CSS | JavaScript
+  
+- 📊 Power BI | Microsoft Excel 
   
 - 🔧 Linux | Git | VS Code
 
