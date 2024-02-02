@@ -47,9 +47,10 @@
 
 <h2 align="left">Statistics......</h2>
 
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamarpitKandhari&count_private=true&theme=algolia" >
 
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpitKandhari&count_private=true&theme=algolia&show_icons=true&hide=issues" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SamarpitKandhari&count_private=true&theme=algolia&show_icons=true&hide=issues" /></p>
 -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamarpitKandhari&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D" /></p><hr>
 <!--
@@ -59,11 +60,9 @@
 
 | Where | What |
 |-:|:-| 
-| [![Instagram](https://img.shields.io/badge/Instagram-F60023?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samarpitkandhari/) |This is the best place,Most active,Come here any time. |
-| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/samarpit.kandhari) | I actively post pictures, and post very often. |
-| [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SamarpitKandhari) | That's exactly what you're seeing right now. Head over to the repositories for more. |
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarpit-kandhari) | More professional, I guess. You'll find my professional history there. |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/samarpitkandhari11) | Platform Where I practice my DSA. |
+| [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SamarpitKandhari) | That's exactly what you're seeing right now. Head over to the repositories for more. |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/samarpitkandhari) | Platform Where I practice my DSA. |
 | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanarpit) | Platform Where I practice my ML and DL. |
 
 
