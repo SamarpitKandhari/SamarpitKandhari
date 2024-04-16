@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C/C++, Python and Machine Learning**
 
-- 🎓 Studying Computer Science Engieering
+- 🎓 Studying Computer Science Engineering
 
 - 📫 How to reach me **samarpitkandhari11@gmail.com**
 
