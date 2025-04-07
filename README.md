@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
 <h3> 💻 About Me </h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Gen AI**
 
-- 🔭 I’m currently a Data Scientist.
+- 🔭 I’m currently a Data Scientist and AI-ML Engineer.
 
-- 💬 Ask me about **C/C++, Python and Machine Learning**
+- 💬 Ask me about **C/C++, Python, Machine Learning and Deep Learning**
 
 - 🎓 Studying Computer Science Engineering
 
@@ -62,7 +62,7 @@
 |-:|:-| 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarpit-kandhari) | More professional, I guess. You'll find my professional history there. |
 | [![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/SamarpitKandhari) | That's exactly what you're seeing right now. Head over to the repositories for more. |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/samarpitkandhari) | Platform Where I practice my DSA. |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/samarpitkandhari11) | Platform Where I practice my DSA. |
 | [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanarpit) | Platform Where I practice my ML and DL. |
 
 
